@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>left: -999em;
+position: absolute;</string>
+	<key>name</key>
+	<string>Off-left</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>offleft</string>
+	<key>uuid</key>
+	<string>E60A6AAB-2CE1-4ECE-90E4-0671FBDE89A7</string>
+</dict>
+</plist>

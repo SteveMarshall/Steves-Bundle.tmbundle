@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Steve’s Bundle</string>
+	<key>ordering</key>
+	<array>
+		<string>B59B32CC-1493-4B84-B545-F5E783902BBD</string>
+		<string>BE2D4D3F-1509-4AC8-B1C3-31DBE1D21EB8</string>
+		<string>FBE7E94C-C8FB-4FB2-B427-A6071B6AB990</string>
+		<string>ABA8E125-D016-4EF1-9D65-DBD06007E1D4</string>
+		<string>9E367D80-FFC9-4067-90B9-33ED299D8CD9</string>
+		<string>E60A6AAB-2CE1-4ECE-90E4-0671FBDE89A7</string>
+		<string>E6B6C5C0-DB1C-4DF6-AE9F-3DE7637CAE48</string>
+		<string>B1B2649B-A038-4CEF-834F-926985A4FC75</string>
+		<string>301524CB-AB71-4405-94FA-63C17462FD88</string>
+		<string>89274C1A-8396-4C13-9561-6F0067DE9100</string>
+		<string>EE184733-BB8F-49AA-BF4A-3F1BEA29C52B</string>
+		<string>7463C339-9223-4FA9-987F-09BC8D5511D0</string>
+		<string>3F8A9398-BC5E-4773-932E-D2EC713ADC28</string>
+		<string>37E7F16E-02DF-40DF-902C-082BBA239FB5</string>
+		<string>ED0FF2A4-B4CE-445C-AD91-71E2A0130B26</string>
+	</array>
+	<key>uuid</key>
+	<string>15B70C82-115D-43B0-9B1E-277D94B82BC0</string>
+</dict>
+</plist>
